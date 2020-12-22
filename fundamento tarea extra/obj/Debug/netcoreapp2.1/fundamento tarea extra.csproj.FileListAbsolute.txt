@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\fundamento tarea extra\bin\Debug\netcoreapp2.1\fundamento tarea extra.deps.json
+C:\Users\Acer\source\repos\fundamento tarea extra\bin\Debug\netcoreapp2.1\fundamento tarea extra.runtimeconfig.json
+C:\Users\Acer\source\repos\fundamento tarea extra\bin\Debug\netcoreapp2.1\fundamento tarea extra.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\fundamento tarea extra\bin\Debug\netcoreapp2.1\fundamento tarea extra.dll
+C:\Users\Acer\source\repos\fundamento tarea extra\bin\Debug\netcoreapp2.1\fundamento tarea extra.pdb
+C:\Users\Acer\source\repos\fundamento tarea extra\obj\Debug\netcoreapp2.1\fundamento tarea extra.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\fundamento tarea extra\obj\Debug\netcoreapp2.1\fundamento tarea extra.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\fundamento tarea extra\obj\Debug\netcoreapp2.1\fundamento tarea extra.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\fundamento tarea extra\obj\Debug\netcoreapp2.1\fundamento tarea extra.AssemblyInfo.cs
+C:\Users\Acer\source\repos\fundamento tarea extra\obj\Debug\netcoreapp2.1\fundamento tarea extra.dll
+C:\Users\Acer\source\repos\fundamento tarea extra\obj\Debug\netcoreapp2.1\fundamento tarea extra.pdb
