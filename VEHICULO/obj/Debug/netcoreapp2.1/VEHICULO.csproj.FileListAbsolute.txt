@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\VEHICULO\bin\Debug\netcoreapp2.1\VEHICULO.deps.json
+C:\Users\Acer\source\repos\VEHICULO\bin\Debug\netcoreapp2.1\VEHICULO.runtimeconfig.json
+C:\Users\Acer\source\repos\VEHICULO\bin\Debug\netcoreapp2.1\VEHICULO.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\VEHICULO\bin\Debug\netcoreapp2.1\VEHICULO.dll
+C:\Users\Acer\source\repos\VEHICULO\bin\Debug\netcoreapp2.1\VEHICULO.pdb
+C:\Users\Acer\source\repos\VEHICULO\obj\Debug\netcoreapp2.1\VEHICULO.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\VEHICULO\obj\Debug\netcoreapp2.1\VEHICULO.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\VEHICULO\obj\Debug\netcoreapp2.1\VEHICULO.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\VEHICULO\obj\Debug\netcoreapp2.1\VEHICULO.AssemblyInfo.cs
+C:\Users\Acer\source\repos\VEHICULO\obj\Debug\netcoreapp2.1\VEHICULO.dll
+C:\Users\Acer\source\repos\VEHICULO\obj\Debug\netcoreapp2.1\VEHICULO.pdb
