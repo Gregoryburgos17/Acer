@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Dias de la semana\Dias de la semana\bin\Debug\netcoreapp2.1\Dias de la semana.deps.json
+C:\Users\Acer\source\repos\Dias de la semana\Dias de la semana\bin\Debug\netcoreapp2.1\Dias de la semana.runtimeconfig.json
+C:\Users\Acer\source\repos\Dias de la semana\Dias de la semana\bin\Debug\netcoreapp2.1\Dias de la semana.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Dias de la semana\Dias de la semana\bin\Debug\netcoreapp2.1\Dias de la semana.dll
+C:\Users\Acer\source\repos\Dias de la semana\Dias de la semana\bin\Debug\netcoreapp2.1\Dias de la semana.pdb
+C:\Users\Acer\source\repos\Dias de la semana\Dias de la semana\obj\Debug\netcoreapp2.1\Dias de la semana.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Dias de la semana\Dias de la semana\obj\Debug\netcoreapp2.1\Dias de la semana.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Dias de la semana\Dias de la semana\obj\Debug\netcoreapp2.1\Dias de la semana.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Dias de la semana\Dias de la semana\obj\Debug\netcoreapp2.1\Dias de la semana.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Dias de la semana\Dias de la semana\obj\Debug\netcoreapp2.1\Dias de la semana.dll
+C:\Users\Acer\source\repos\Dias de la semana\Dias de la semana\obj\Debug\netcoreapp2.1\Dias de la semana.pdb
