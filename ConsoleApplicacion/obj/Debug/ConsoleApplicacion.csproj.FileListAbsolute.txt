@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\ConsoleApplicacion\bin\Debug\ConsoleApplicacion.exe.config
+C:\Users\Acer\source\repos\ConsoleApplicacion\bin\Debug\ConsoleApplicacion.exe
+C:\Users\Acer\source\repos\ConsoleApplicacion\bin\Debug\ConsoleApplicacion.pdb
+C:\Users\Acer\source\repos\ConsoleApplicacion\obj\Debug\ConsoleApplicacion.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ConsoleApplicacion\obj\Debug\ConsoleApplicacion.exe
+C:\Users\Acer\source\repos\ConsoleApplicacion\obj\Debug\ConsoleApplicacion.pdb
