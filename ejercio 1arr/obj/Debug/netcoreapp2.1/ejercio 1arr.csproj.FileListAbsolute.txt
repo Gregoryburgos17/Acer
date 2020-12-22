@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\ejercio 1arr\bin\Debug\netcoreapp2.1\ejercio 1arr.deps.json
+C:\Users\Acer\source\repos\ejercio 1arr\bin\Debug\netcoreapp2.1\ejercio 1arr.runtimeconfig.json
+C:\Users\Acer\source\repos\ejercio 1arr\bin\Debug\netcoreapp2.1\ejercio 1arr.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\ejercio 1arr\bin\Debug\netcoreapp2.1\ejercio 1arr.dll
+C:\Users\Acer\source\repos\ejercio 1arr\bin\Debug\netcoreapp2.1\ejercio 1arr.pdb
+C:\Users\Acer\source\repos\ejercio 1arr\obj\Debug\netcoreapp2.1\ejercio 1arr.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ejercio 1arr\obj\Debug\netcoreapp2.1\ejercio 1arr.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ejercio 1arr\obj\Debug\netcoreapp2.1\ejercio 1arr.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ejercio 1arr\obj\Debug\netcoreapp2.1\ejercio 1arr.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ejercio 1arr\obj\Debug\netcoreapp2.1\ejercio 1arr.dll
+C:\Users\Acer\source\repos\ejercio 1arr\obj\Debug\netcoreapp2.1\ejercio 1arr.pdb

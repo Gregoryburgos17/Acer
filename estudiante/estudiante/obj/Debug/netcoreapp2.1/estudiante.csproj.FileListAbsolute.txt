@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\estudiante\estudiante\bin\Debug\netcoreapp2.1\estudiante.deps.json
+C:\Users\Acer\source\repos\estudiante\estudiante\bin\Debug\netcoreapp2.1\estudiante.runtimeconfig.json
+C:\Users\Acer\source\repos\estudiante\estudiante\bin\Debug\netcoreapp2.1\estudiante.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\estudiante\estudiante\bin\Debug\netcoreapp2.1\estudiante.dll
+C:\Users\Acer\source\repos\estudiante\estudiante\bin\Debug\netcoreapp2.1\estudiante.pdb
+C:\Users\Acer\source\repos\estudiante\estudiante\obj\Debug\netcoreapp2.1\estudiante.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\estudiante\estudiante\obj\Debug\netcoreapp2.1\estudiante.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\estudiante\estudiante\obj\Debug\netcoreapp2.1\estudiante.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\estudiante\estudiante\obj\Debug\netcoreapp2.1\estudiante.AssemblyInfo.cs
+C:\Users\Acer\source\repos\estudiante\estudiante\obj\Debug\netcoreapp2.1\estudiante.dll
+C:\Users\Acer\source\repos\estudiante\estudiante\obj\Debug\netcoreapp2.1\estudiante.pdb
