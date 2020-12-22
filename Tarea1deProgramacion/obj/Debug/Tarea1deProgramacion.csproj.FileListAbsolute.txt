@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Tarea1deProgramacion\bin\Debug\Tarea1deProgramacion.exe.config
+C:\Users\Acer\source\repos\Tarea1deProgramacion\bin\Debug\Tarea1deProgramacion.exe
+C:\Users\Acer\source\repos\Tarea1deProgramacion\bin\Debug\Tarea1deProgramacion.pdb
+C:\Users\Acer\source\repos\Tarea1deProgramacion\obj\Debug\Tarea1deProgramacion.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Tarea1deProgramacion\obj\Debug\Tarea1deProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Tarea1deProgramacion\obj\Debug\Tarea1deProgramacion.exe
+C:\Users\Acer\source\repos\Tarea1deProgramacion\obj\Debug\Tarea1deProgramacion.pdb
