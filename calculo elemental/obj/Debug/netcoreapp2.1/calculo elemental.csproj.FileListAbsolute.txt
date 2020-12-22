@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\calculo elemental\bin\Debug\netcoreapp2.1\calculo elemental.deps.json
+C:\Users\Acer\source\repos\calculo elemental\bin\Debug\netcoreapp2.1\calculo elemental.runtimeconfig.json
+C:\Users\Acer\source\repos\calculo elemental\bin\Debug\netcoreapp2.1\calculo elemental.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\calculo elemental\bin\Debug\netcoreapp2.1\calculo elemental.dll
+C:\Users\Acer\source\repos\calculo elemental\bin\Debug\netcoreapp2.1\calculo elemental.pdb
+C:\Users\Acer\source\repos\calculo elemental\obj\Debug\netcoreapp2.1\calculo elemental.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\calculo elemental\obj\Debug\netcoreapp2.1\calculo elemental.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\calculo elemental\obj\Debug\netcoreapp2.1\calculo elemental.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\calculo elemental\obj\Debug\netcoreapp2.1\calculo elemental.AssemblyInfo.cs
+C:\Users\Acer\source\repos\calculo elemental\obj\Debug\netcoreapp2.1\calculo elemental.dll
+C:\Users\Acer\source\repos\calculo elemental\obj\Debug\netcoreapp2.1\calculo elemental.pdb
