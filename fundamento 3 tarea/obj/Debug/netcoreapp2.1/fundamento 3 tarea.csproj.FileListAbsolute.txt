@@ -1,0 +1,4 @@
+C:\Users\Acer\source\repos\fundamento 3 tarea\obj\Debug\netcoreapp2.1\fundamento 3 tarea.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\fundamento 3 tarea\obj\Debug\netcoreapp2.1\fundamento 3 tarea.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\fundamento 3 tarea\obj\Debug\netcoreapp2.1\fundamento 3 tarea.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\fundamento 3 tarea\obj\Debug\netcoreapp2.1\fundamento 3 tarea.AssemblyInfo.cs

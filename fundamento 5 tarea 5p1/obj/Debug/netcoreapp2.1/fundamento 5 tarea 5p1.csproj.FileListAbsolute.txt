@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\fundamento 5 tarea 5p1\bin\Debug\netcoreapp2.1\fundamento 5 tarea 5p1.deps.json
+C:\Users\Acer\source\repos\fundamento 5 tarea 5p1\bin\Debug\netcoreapp2.1\fundamento 5 tarea 5p1.runtimeconfig.json
+C:\Users\Acer\source\repos\fundamento 5 tarea 5p1\bin\Debug\netcoreapp2.1\fundamento 5 tarea 5p1.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\fundamento 5 tarea 5p1\bin\Debug\netcoreapp2.1\fundamento 5 tarea 5p1.dll
+C:\Users\Acer\source\repos\fundamento 5 tarea 5p1\bin\Debug\netcoreapp2.1\fundamento 5 tarea 5p1.pdb
+C:\Users\Acer\source\repos\fundamento 5 tarea 5p1\obj\Debug\netcoreapp2.1\fundamento 5 tarea 5p1.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\fundamento 5 tarea 5p1\obj\Debug\netcoreapp2.1\fundamento 5 tarea 5p1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\fundamento 5 tarea 5p1\obj\Debug\netcoreapp2.1\fundamento 5 tarea 5p1.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\fundamento 5 tarea 5p1\obj\Debug\netcoreapp2.1\fundamento 5 tarea 5p1.AssemblyInfo.cs
+C:\Users\Acer\source\repos\fundamento 5 tarea 5p1\obj\Debug\netcoreapp2.1\fundamento 5 tarea 5p1.dll
+C:\Users\Acer\source\repos\fundamento 5 tarea 5p1\obj\Debug\netcoreapp2.1\fundamento 5 tarea 5p1.pdb
