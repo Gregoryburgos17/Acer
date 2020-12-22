@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Fundameto p 3 tarea\bin\Debug\netcoreapp2.1\Fundameto p 3 tarea.deps.json
+C:\Users\Acer\source\repos\Fundameto p 3 tarea\bin\Debug\netcoreapp2.1\Fundameto p 3 tarea.runtimeconfig.json
+C:\Users\Acer\source\repos\Fundameto p 3 tarea\bin\Debug\netcoreapp2.1\Fundameto p 3 tarea.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Fundameto p 3 tarea\bin\Debug\netcoreapp2.1\Fundameto p 3 tarea.dll
+C:\Users\Acer\source\repos\Fundameto p 3 tarea\bin\Debug\netcoreapp2.1\Fundameto p 3 tarea.pdb
+C:\Users\Acer\source\repos\Fundameto p 3 tarea\obj\Debug\netcoreapp2.1\Fundameto p 3 tarea.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Fundameto p 3 tarea\obj\Debug\netcoreapp2.1\Fundameto p 3 tarea.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Fundameto p 3 tarea\obj\Debug\netcoreapp2.1\Fundameto p 3 tarea.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Fundameto p 3 tarea\obj\Debug\netcoreapp2.1\Fundameto p 3 tarea.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Fundameto p 3 tarea\obj\Debug\netcoreapp2.1\Fundameto p 3 tarea.dll
+C:\Users\Acer\source\repos\Fundameto p 3 tarea\obj\Debug\netcoreapp2.1\Fundameto p 3 tarea.pdb
