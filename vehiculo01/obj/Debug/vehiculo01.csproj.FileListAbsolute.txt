@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\vehiculo01\bin\Debug\vehiculo01.exe.config
+C:\Users\Acer\source\repos\vehiculo01\bin\Debug\vehiculo01.exe
+C:\Users\Acer\source\repos\vehiculo01\bin\Debug\vehiculo01.pdb
+C:\Users\Acer\source\repos\vehiculo01\obj\Debug\vehiculo01.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\vehiculo01\obj\Debug\vehiculo01.exe
+C:\Users\Acer\source\repos\vehiculo01\obj\Debug\vehiculo01.pdb
