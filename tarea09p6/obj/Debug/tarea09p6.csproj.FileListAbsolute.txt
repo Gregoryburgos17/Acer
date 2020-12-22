@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\tarea09p6\bin\Debug\tarea09p6.exe.config
+C:\Users\Acer\source\repos\tarea09p6\bin\Debug\tarea09p6.exe
+C:\Users\Acer\source\repos\tarea09p6\bin\Debug\tarea09p6.pdb
+C:\Users\Acer\source\repos\tarea09p6\obj\Debug\tarea09p6.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\tarea09p6\obj\Debug\tarea09p6.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\tarea09p6\obj\Debug\tarea09p6.exe
+C:\Users\Acer\source\repos\tarea09p6\obj\Debug\tarea09p6.pdb
