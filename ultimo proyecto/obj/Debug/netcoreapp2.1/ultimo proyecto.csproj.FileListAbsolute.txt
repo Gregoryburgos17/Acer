@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\ultimo proyecto\bin\Debug\netcoreapp2.1\ultimo proyecto.deps.json
+C:\Users\Acer\source\repos\ultimo proyecto\bin\Debug\netcoreapp2.1\ultimo proyecto.runtimeconfig.json
+C:\Users\Acer\source\repos\ultimo proyecto\bin\Debug\netcoreapp2.1\ultimo proyecto.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\ultimo proyecto\bin\Debug\netcoreapp2.1\ultimo proyecto.dll
+C:\Users\Acer\source\repos\ultimo proyecto\bin\Debug\netcoreapp2.1\ultimo proyecto.pdb
+C:\Users\Acer\source\repos\ultimo proyecto\obj\Debug\netcoreapp2.1\ultimo proyecto.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ultimo proyecto\obj\Debug\netcoreapp2.1\ultimo proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ultimo proyecto\obj\Debug\netcoreapp2.1\ultimo proyecto.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ultimo proyecto\obj\Debug\netcoreapp2.1\ultimo proyecto.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ultimo proyecto\obj\Debug\netcoreapp2.1\ultimo proyecto.dll
+C:\Users\Acer\source\repos\ultimo proyecto\obj\Debug\netcoreapp2.1\ultimo proyecto.pdb
