@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\tareita\bin\Debug\tareita.exe.config
+C:\Users\Acer\source\repos\tareita\bin\Debug\tareita.exe
+C:\Users\Acer\source\repos\tareita\bin\Debug\tareita.pdb
+C:\Users\Acer\source\repos\tareita\obj\Debug\tareita.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\tareita\obj\Debug\tareita.exe
+C:\Users\Acer\source\repos\tareita\obj\Debug\tareita.pdb
