@@ -1,0 +1,6 @@
+C:\Users\jesus_000\source\repos\Access_conexion\Access_conexion\bin\Debug\Access_conexion.dll
+C:\Users\jesus_000\source\repos\Access_conexion\Access_conexion\bin\Debug\Access_conexion.pdb
+C:\Users\jesus_000\source\repos\Access_conexion\Access_conexion\obj\Debug\Access_conexion.csprojAssemblyReference.cache
+C:\Users\jesus_000\source\repos\Access_conexion\Access_conexion\obj\Debug\Access_conexion.csproj.CoreCompileInputs.cache
+C:\Users\jesus_000\source\repos\Access_conexion\Access_conexion\obj\Debug\Access_conexion.dll
+C:\Users\jesus_000\source\repos\Access_conexion\Access_conexion\obj\Debug\Access_conexion.pdb

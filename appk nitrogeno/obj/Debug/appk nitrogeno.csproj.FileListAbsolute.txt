@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\appk nitrogeno\bin\Debug\appk nitrogeno.exe.config
+C:\Users\Acer\source\repos\appk nitrogeno\bin\Debug\appk nitrogeno.exe
+C:\Users\Acer\source\repos\appk nitrogeno\bin\Debug\appk nitrogeno.pdb
+C:\Users\Acer\source\repos\appk nitrogeno\obj\Debug\appk nitrogeno.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\appk nitrogeno\obj\Debug\appk_nitrogeno.Form1.resources
+C:\Users\Acer\source\repos\appk nitrogeno\obj\Debug\appk_nitrogeno.Properties.Resources.resources
+C:\Users\Acer\source\repos\appk nitrogeno\obj\Debug\appk nitrogeno.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\appk nitrogeno\obj\Debug\appk nitrogeno.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\appk nitrogeno\obj\Debug\appk nitrogeno.exe
+C:\Users\Acer\source\repos\appk nitrogeno\obj\Debug\appk nitrogeno.pdb
