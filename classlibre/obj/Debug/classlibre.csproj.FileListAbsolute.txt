@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\classlibre\bin\Debug\classlibre.dll
+C:\Users\Acer\source\repos\classlibre\bin\Debug\classlibre.pdb
+C:\Users\Acer\source\repos\classlibre\obj\Debug\classlibre.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\classlibre\obj\Debug\classlibre.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\classlibre\obj\Debug\classlibre.dll
+C:\Users\Acer\source\repos\classlibre\obj\Debug\classlibre.pdb

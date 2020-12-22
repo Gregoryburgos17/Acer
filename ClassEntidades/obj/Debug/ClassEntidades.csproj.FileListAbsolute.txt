@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\ClassEntidades\bin\Debug\ClassEntidades.dll
+C:\Users\Acer\source\repos\ClassEntidades\bin\Debug\ClassEntidades.pdb
+C:\Users\Acer\source\repos\ClassEntidades\obj\Debug\ClassEntidades.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ClassEntidades\obj\Debug\ClassEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ClassEntidades\obj\Debug\ClassEntidades.dll
+C:\Users\Acer\source\repos\ClassEntidades\obj\Debug\ClassEntidades.pdb
