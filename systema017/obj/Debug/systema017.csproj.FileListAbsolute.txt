@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\systema017\obj\Debug\systema017.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\systema017\obj\Debug\systema017.Form1.resources
+C:\Users\Acer\source\repos\systema017\obj\Debug\systema017.Properties.Resources.resources
+C:\Users\Acer\source\repos\systema017\obj\Debug\systema017.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\systema017\obj\Debug\systema017.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\systema017\bin\Debug\systema017.exe.config
+C:\Users\Acer\source\repos\systema017\bin\Debug\systema017.exe
+C:\Users\Acer\source\repos\systema017\bin\Debug\systema017.pdb
+C:\Users\Acer\source\repos\systema017\obj\Debug\systema017.exe
+C:\Users\Acer\source\repos\systema017\obj\Debug\systema017.pdb
+C:\Users\Acer\source\repos\systema017\obj\Debug\systema017.productos.resources

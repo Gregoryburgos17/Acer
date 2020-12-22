@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\syngleton\obj\Debug\syngleton.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\syngleton\obj\Debug\syngleton.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\syngleton\bin\Debug\syngleton.exe.config
+C:\Users\Acer\source\repos\syngleton\bin\Debug\syngleton.exe
+C:\Users\Acer\source\repos\syngleton\bin\Debug\syngleton.pdb
+C:\Users\Acer\source\repos\syngleton\obj\Debug\syngleton.exe
+C:\Users\Acer\source\repos\syngleton\obj\Debug\syngleton.pdb

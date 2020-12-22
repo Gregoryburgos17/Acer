@@ -1,0 +1,9 @@
+C:\Users\Acer\source\repos\sistemadeprestamo\bin\Debug\sistemadeprestamo.exe.config
+C:\Users\Acer\source\repos\sistemadeprestamo\bin\Debug\sistemadeprestamo.exe
+C:\Users\Acer\source\repos\sistemadeprestamo\bin\Debug\sistemadeprestamo.pdb
+C:\Users\Acer\source\repos\sistemadeprestamo\obj\Debug\sistemadeprestamo.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\sistemadeprestamo\obj\Debug\sistemadeprestamo.Form1.resources
+C:\Users\Acer\source\repos\sistemadeprestamo\obj\Debug\sistemadeprestamo.Properties.Resources.resources
+C:\Users\Acer\source\repos\sistemadeprestamo\obj\Debug\sistemadeprestamo.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\sistemadeprestamo\obj\Debug\sistemadeprestamo.exe
+C:\Users\Acer\source\repos\sistemadeprestamo\obj\Debug\sistemadeprestamo.pdb
