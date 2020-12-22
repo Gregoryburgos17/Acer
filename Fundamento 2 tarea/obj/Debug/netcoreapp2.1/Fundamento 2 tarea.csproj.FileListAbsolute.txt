@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Fundamento 2 tarea\bin\Debug\netcoreapp2.1\Fundamento 2 tarea.deps.json
+C:\Users\Acer\source\repos\Fundamento 2 tarea\bin\Debug\netcoreapp2.1\Fundamento 2 tarea.runtimeconfig.json
+C:\Users\Acer\source\repos\Fundamento 2 tarea\bin\Debug\netcoreapp2.1\Fundamento 2 tarea.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Fundamento 2 tarea\bin\Debug\netcoreapp2.1\Fundamento 2 tarea.dll
+C:\Users\Acer\source\repos\Fundamento 2 tarea\bin\Debug\netcoreapp2.1\Fundamento 2 tarea.pdb
+C:\Users\Acer\source\repos\Fundamento 2 tarea\obj\Debug\netcoreapp2.1\Fundamento 2 tarea.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Fundamento 2 tarea\obj\Debug\netcoreapp2.1\Fundamento 2 tarea.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Fundamento 2 tarea\obj\Debug\netcoreapp2.1\Fundamento 2 tarea.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Fundamento 2 tarea\obj\Debug\netcoreapp2.1\Fundamento 2 tarea.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Fundamento 2 tarea\obj\Debug\netcoreapp2.1\Fundamento 2 tarea.dll
+C:\Users\Acer\source\repos\Fundamento 2 tarea\obj\Debug\netcoreapp2.1\Fundamento 2 tarea.pdb

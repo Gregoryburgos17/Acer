@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\fogueo nivel3\obj\Debug\netcoreapp2.1\fogueo nivel3.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\fogueo nivel3\obj\Debug\netcoreapp2.1\fogueo nivel3.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\fogueo nivel3\obj\Debug\netcoreapp2.1\fogueo nivel3.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\fogueo nivel3\obj\Debug\netcoreapp2.1\fogueo nivel3.AssemblyInfo.cs
+C:\Users\Acer\source\repos\fogueo nivel3\bin\Debug\netcoreapp2.1\fogueo nivel3.deps.json
+C:\Users\Acer\source\repos\fogueo nivel3\bin\Debug\netcoreapp2.1\fogueo nivel3.runtimeconfig.json
+C:\Users\Acer\source\repos\fogueo nivel3\bin\Debug\netcoreapp2.1\fogueo nivel3.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\fogueo nivel3\bin\Debug\netcoreapp2.1\fogueo nivel3.dll
+C:\Users\Acer\source\repos\fogueo nivel3\bin\Debug\netcoreapp2.1\fogueo nivel3.pdb
+C:\Users\Acer\source\repos\fogueo nivel3\obj\Debug\netcoreapp2.1\fogueo nivel3.dll
+C:\Users\Acer\source\repos\fogueo nivel3\obj\Debug\netcoreapp2.1\fogueo nivel3.pdb
