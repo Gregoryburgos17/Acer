@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\poov2\bin\Debug\poov2.exe.config
+C:\Users\Acer\source\repos\poov2\bin\Debug\poov2.exe
+C:\Users\Acer\source\repos\poov2\bin\Debug\poov2.pdb
+C:\Users\Acer\source\repos\poov2\obj\Debug\poov2.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\poov2\obj\Debug\poov2.exe
+C:\Users\Acer\source\repos\poov2\obj\Debug\poov2.pdb

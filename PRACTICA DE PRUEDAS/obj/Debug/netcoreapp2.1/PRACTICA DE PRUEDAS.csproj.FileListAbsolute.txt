@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\PRACTICA DE PRUEDAS\bin\Debug\netcoreapp2.1\PRACTICA DE PRUEDAS.deps.json
+C:\Users\Acer\source\repos\PRACTICA DE PRUEDAS\bin\Debug\netcoreapp2.1\PRACTICA DE PRUEDAS.runtimeconfig.json
+C:\Users\Acer\source\repos\PRACTICA DE PRUEDAS\bin\Debug\netcoreapp2.1\PRACTICA DE PRUEDAS.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\PRACTICA DE PRUEDAS\bin\Debug\netcoreapp2.1\PRACTICA DE PRUEDAS.dll
+C:\Users\Acer\source\repos\PRACTICA DE PRUEDAS\bin\Debug\netcoreapp2.1\PRACTICA DE PRUEDAS.pdb
+C:\Users\Acer\source\repos\PRACTICA DE PRUEDAS\obj\Debug\netcoreapp2.1\PRACTICA DE PRUEDAS.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\PRACTICA DE PRUEDAS\obj\Debug\netcoreapp2.1\PRACTICA DE PRUEDAS.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\PRACTICA DE PRUEDAS\obj\Debug\netcoreapp2.1\PRACTICA DE PRUEDAS.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\PRACTICA DE PRUEDAS\obj\Debug\netcoreapp2.1\PRACTICA DE PRUEDAS.AssemblyInfo.cs
+C:\Users\Acer\source\repos\PRACTICA DE PRUEDAS\obj\Debug\netcoreapp2.1\PRACTICA DE PRUEDAS.dll
+C:\Users\Acer\source\repos\PRACTICA DE PRUEDAS\obj\Debug\netcoreapp2.1\PRACTICA DE PRUEDAS.pdb
