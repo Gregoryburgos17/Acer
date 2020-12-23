@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\ProjectoAJeno\obj\Debug\ProjectoAJeno.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ProjectoAJeno\bin\Debug\ProjectoAJeno.exe.config
+C:\Users\Acer\source\repos\ProjectoAJeno\bin\Debug\ProjectoAJeno.exe
+C:\Users\Acer\source\repos\ProjectoAJeno\bin\Debug\ProjectoAJeno.pdb
+C:\Users\Acer\source\repos\ProjectoAJeno\obj\Debug\ProjectoAJeno.exe
+C:\Users\Acer\source\repos\ProjectoAJeno\obj\Debug\ProjectoAJeno.pdb

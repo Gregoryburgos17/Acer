@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\programacion1\bin\Debug\programacion1.exe.config
+C:\Users\Acer\source\repos\programacion1\bin\Debug\programacion1.exe
+C:\Users\Acer\source\repos\programacion1\bin\Debug\programacion1.pdb
+C:\Users\Acer\source\repos\programacion1\obj\Debug\programacion1.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\programacion1\obj\Debug\programacion1.exe
+C:\Users\Acer\source\repos\programacion1\obj\Debug\programacion1.pdb
