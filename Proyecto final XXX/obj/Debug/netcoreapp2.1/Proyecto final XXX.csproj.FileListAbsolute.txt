@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Proyecto final XXX\bin\Debug\netcoreapp2.1\Proyecto final XXX.deps.json
+C:\Users\Acer\source\repos\Proyecto final XXX\bin\Debug\netcoreapp2.1\Proyecto final XXX.runtimeconfig.json
+C:\Users\Acer\source\repos\Proyecto final XXX\bin\Debug\netcoreapp2.1\Proyecto final XXX.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Proyecto final XXX\bin\Debug\netcoreapp2.1\Proyecto final XXX.dll
+C:\Users\Acer\source\repos\Proyecto final XXX\bin\Debug\netcoreapp2.1\Proyecto final XXX.pdb
+C:\Users\Acer\source\repos\Proyecto final XXX\obj\Debug\netcoreapp2.1\Proyecto final XXX.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Proyecto final XXX\obj\Debug\netcoreapp2.1\Proyecto final XXX.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Proyecto final XXX\obj\Debug\netcoreapp2.1\Proyecto final XXX.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Proyecto final XXX\obj\Debug\netcoreapp2.1\Proyecto final XXX.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Proyecto final XXX\obj\Debug\netcoreapp2.1\Proyecto final XXX.dll
+C:\Users\Acer\source\repos\Proyecto final XXX\obj\Debug\netcoreapp2.1\Proyecto final XXX.pdb

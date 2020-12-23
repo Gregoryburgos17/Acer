@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\prueba codigo\obj\Debug\netcoreapp2.1\prueba codigo.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\prueba codigo\obj\Debug\netcoreapp2.1\prueba codigo.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\prueba codigo\obj\Debug\netcoreapp2.1\prueba codigo.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\prueba codigo\obj\Debug\netcoreapp2.1\prueba codigo.AssemblyInfo.cs
+C:\Users\Acer\source\repos\prueba codigo\bin\Debug\netcoreapp2.1\prueba codigo.deps.json
+C:\Users\Acer\source\repos\prueba codigo\bin\Debug\netcoreapp2.1\prueba codigo.runtimeconfig.json
+C:\Users\Acer\source\repos\prueba codigo\bin\Debug\netcoreapp2.1\prueba codigo.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\prueba codigo\bin\Debug\netcoreapp2.1\prueba codigo.dll
+C:\Users\Acer\source\repos\prueba codigo\bin\Debug\netcoreapp2.1\prueba codigo.pdb
+C:\Users\Acer\source\repos\prueba codigo\obj\Debug\netcoreapp2.1\prueba codigo.dll
+C:\Users\Acer\source\repos\prueba codigo\obj\Debug\netcoreapp2.1\prueba codigo.pdb
