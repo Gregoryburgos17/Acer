@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\prueba pa ti\bin\Debug\netcoreapp2.1\prueba pa ti.deps.json
+C:\Users\Acer\source\repos\prueba pa ti\bin\Debug\netcoreapp2.1\prueba pa ti.runtimeconfig.json
+C:\Users\Acer\source\repos\prueba pa ti\bin\Debug\netcoreapp2.1\prueba pa ti.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\prueba pa ti\bin\Debug\netcoreapp2.1\prueba pa ti.dll
+C:\Users\Acer\source\repos\prueba pa ti\bin\Debug\netcoreapp2.1\prueba pa ti.pdb
+C:\Users\Acer\source\repos\prueba pa ti\obj\Debug\netcoreapp2.1\prueba pa ti.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\prueba pa ti\obj\Debug\netcoreapp2.1\prueba pa ti.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\prueba pa ti\obj\Debug\netcoreapp2.1\prueba pa ti.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\prueba pa ti\obj\Debug\netcoreapp2.1\prueba pa ti.AssemblyInfo.cs
+C:\Users\Acer\source\repos\prueba pa ti\obj\Debug\netcoreapp2.1\prueba pa ti.dll
+C:\Users\Acer\source\repos\prueba pa ti\obj\Debug\netcoreapp2.1\prueba pa ti.pdb
