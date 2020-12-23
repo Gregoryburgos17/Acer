@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\NavegadorWeb\bin\Debug\NavegadorWeb.exe.config
+C:\Users\Acer\source\repos\NavegadorWeb\bin\Debug\NavegadorWeb.exe
+C:\Users\Acer\source\repos\NavegadorWeb\bin\Debug\NavegadorWeb.pdb
+C:\Users\Acer\source\repos\NavegadorWeb\obj\Debug\NavegadorWeb.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\NavegadorWeb\obj\Debug\NavegadorWeb.Form1.resources
+C:\Users\Acer\source\repos\NavegadorWeb\obj\Debug\NavegadorWeb.Properties.Resources.resources
+C:\Users\Acer\source\repos\NavegadorWeb\obj\Debug\NavegadorWeb.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\NavegadorWeb\obj\Debug\NavegadorWeb.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\NavegadorWeb\obj\Debug\NavegadorWeb.exe
+C:\Users\Acer\source\repos\NavegadorWeb\obj\Debug\NavegadorWeb.pdb
