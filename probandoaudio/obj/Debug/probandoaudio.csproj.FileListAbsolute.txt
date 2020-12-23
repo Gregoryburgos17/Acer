@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\probandoaudio\bin\Debug\probandoaudio.exe.config
+C:\Users\Acer\source\repos\probandoaudio\bin\Debug\probandoaudio.exe
+C:\Users\Acer\source\repos\probandoaudio\bin\Debug\probandoaudio.pdb
+C:\Users\Acer\source\repos\probandoaudio\obj\Debug\probandoaudio.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\probandoaudio\obj\Debug\probandoaudio.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\probandoaudio\obj\Debug\probandoaudio.exe
+C:\Users\Acer\source\repos\probandoaudio\obj\Debug\probandoaudio.pdb
