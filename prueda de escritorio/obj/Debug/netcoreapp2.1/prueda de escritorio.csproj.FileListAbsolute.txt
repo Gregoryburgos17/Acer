@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\prueda de escritorio\bin\Debug\netcoreapp2.1\prueda de escritorio.deps.json
+C:\Users\Acer\source\repos\prueda de escritorio\bin\Debug\netcoreapp2.1\prueda de escritorio.runtimeconfig.json
+C:\Users\Acer\source\repos\prueda de escritorio\bin\Debug\netcoreapp2.1\prueda de escritorio.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\prueda de escritorio\bin\Debug\netcoreapp2.1\prueda de escritorio.dll
+C:\Users\Acer\source\repos\prueda de escritorio\bin\Debug\netcoreapp2.1\prueda de escritorio.pdb
+C:\Users\Acer\source\repos\prueda de escritorio\obj\Debug\netcoreapp2.1\prueda de escritorio.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\prueda de escritorio\obj\Debug\netcoreapp2.1\prueda de escritorio.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\prueda de escritorio\obj\Debug\netcoreapp2.1\prueda de escritorio.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\prueda de escritorio\obj\Debug\netcoreapp2.1\prueda de escritorio.AssemblyInfo.cs
+C:\Users\Acer\source\repos\prueda de escritorio\obj\Debug\netcoreapp2.1\prueda de escritorio.dll
+C:\Users\Acer\source\repos\prueda de escritorio\obj\Debug\netcoreapp2.1\prueda de escritorio.pdb

@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\pruedas de todo\bin\Debug\netcoreapp2.1\pruedas de todo.deps.json
+C:\Users\Acer\source\repos\pruedas de todo\bin\Debug\netcoreapp2.1\pruedas de todo.runtimeconfig.json
+C:\Users\Acer\source\repos\pruedas de todo\bin\Debug\netcoreapp2.1\pruedas de todo.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\pruedas de todo\bin\Debug\netcoreapp2.1\pruedas de todo.dll
+C:\Users\Acer\source\repos\pruedas de todo\bin\Debug\netcoreapp2.1\pruedas de todo.pdb
+C:\Users\Acer\source\repos\pruedas de todo\obj\Debug\netcoreapp2.1\pruedas de todo.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\pruedas de todo\obj\Debug\netcoreapp2.1\pruedas de todo.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\pruedas de todo\obj\Debug\netcoreapp2.1\pruedas de todo.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\pruedas de todo\obj\Debug\netcoreapp2.1\pruedas de todo.AssemblyInfo.cs
+C:\Users\Acer\source\repos\pruedas de todo\obj\Debug\netcoreapp2.1\pruedas de todo.dll
+C:\Users\Acer\source\repos\pruedas de todo\obj\Debug\netcoreapp2.1\pruedas de todo.pdb
