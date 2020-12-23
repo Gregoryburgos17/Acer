@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\JuegoDeGato\bin\Debug\JuegoDeGato.exe.config
+C:\Users\Acer\source\repos\JuegoDeGato\bin\Debug\JuegoDeGato.exe
+C:\Users\Acer\source\repos\JuegoDeGato\bin\Debug\JuegoDeGato.pdb
+C:\Users\Acer\source\repos\JuegoDeGato\obj\Debug\JuegoDeGato.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\JuegoDeGato\obj\Debug\JuegoDeGato.exe
+C:\Users\Acer\source\repos\JuegoDeGato\obj\Debug\JuegoDeGato.pdb
