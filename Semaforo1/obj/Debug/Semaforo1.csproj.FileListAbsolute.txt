@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\Semaforo1\bin\Debug\Semaforo1.exe.config
+C:\Users\Acer\source\repos\Semaforo1\bin\Debug\Semaforo1.exe
+C:\Users\Acer\source\repos\Semaforo1\bin\Debug\Semaforo1.pdb
+C:\Users\Acer\source\repos\Semaforo1\obj\Debug\Semaforo1.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Semaforo1\obj\Debug\Semaforo1.Form1.resources
+C:\Users\Acer\source\repos\Semaforo1\obj\Debug\Semaforo1.Properties.Resources.resources
+C:\Users\Acer\source\repos\Semaforo1\obj\Debug\Semaforo1.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Semaforo1\obj\Debug\Semaforo1.exe
+C:\Users\Acer\source\repos\Semaforo1\obj\Debug\Semaforo1.pdb
+C:\Users\Acer\source\repos\Semaforo1\obj\Debug\Semaforo1.csproj.CoreCompileInputs.cache
